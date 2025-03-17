@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on mathematics
 - 📫 How to reach me to script?
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: luckyboy
+-
+- ⚡ Fun fact: i am a little hacker
 
 <!---
 Selamatpagi321/Selamatpagi321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
